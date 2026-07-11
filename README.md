@@ -1,4 +1,4 @@
-=========Expense & Budget Visualizer=========
+## EXPENSE & BUDGET VISUALIZER
 
 A simple web application for tracking daily expenses and visualizing spending by category.
 
